@@ -1,0 +1,11 @@
+.container {
+    background-image: url(https://i.imgur.com/m2GPoD5.jpg);
+    background-repeat: no-repeat;
+}
+#navbar ul {
+    text-align: right;
+}
+#navbar li {
+display: inline-block;
+padding: 20px;
+}
